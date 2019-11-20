@@ -8,6 +8,7 @@ ______ _            _   ______
 
  *
  * Designed, built, and released under MIT license by @karloespiritu.
+ * Edited by Andrés Montenegro @AndresMontenegroClub amontenegro
  */
 
 /*
@@ -65,7 +66,7 @@ a {
 }
 
 a:hover {
-  color: #caad00;
+  color: #ff6400;
 }
 
 .btn {
@@ -205,12 +206,12 @@ tbody tr:nth-child(odd) th {
 
 /* Sidebar links */
 .sidebar a {
-  color: #caad00;
+  color: #ff6400;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #caad00;
+  color: #ff6400;
   margin-top: 0;
   font-family: 'Noto Serif', serif;
   font-size: 2.25rem;
@@ -284,7 +285,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #caad00;
+  color: #ff6400;
 }
 
 /*
